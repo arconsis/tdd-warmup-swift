@@ -1,10 +1,3 @@
-//
-//  ConcatenatorTest.swift
-//  TDDWarmupTests
-//
-//  Created by Wolfgang Frank on 29.05.21.
-//
-
 import XCTest
 @testable import TDDWarmup
 

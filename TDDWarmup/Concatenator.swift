@@ -1,10 +1,3 @@
-//
-//  Concatenator.swift
-//  TDDWarmup
-//
-//  Created by Wolfgang Frank on 29.05.21.
-//
-
 import Foundation
 
 enum MyError: Error {
