@@ -13,7 +13,7 @@ enum MyError: Error {
 
 class Concatenator {
     
-    func conatenate(s1: String, s2: String) throws -> String {
+    func concatenate(s1: String, s2: String) throws -> String {
         throw MyError.runtimeError("NOT IMPLEMENTED")
     }
     

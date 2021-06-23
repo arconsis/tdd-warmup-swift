@@ -13,7 +13,7 @@ class ConcatenatorTest: XCTestCase {
     let sut = Concatenator()
 
     func testConcat() throws {
-        XCTAssertEqual(try sut.conatenate(s1: "Hello", s2: "World"), "Hello World")
+        XCTAssertEqual(try sut.concatenate(s1: "Hello", s2: "World"), "Hello World")
     }
 
     
